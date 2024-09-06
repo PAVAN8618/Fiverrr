@@ -67,7 +67,7 @@ const Home = () => {
           <div className="items">
             <div className="item">
               <img
-                src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/graphics-design.d32a2f8.svg"
+                src="https://Skillio-res.cloudinary.com/npm-assets/@Skillio/logged_out_homepage_perseus/apps/graphics-design.d32a2f8.svg"
                 alt=""
               />
               <div className="line"></div>
@@ -75,7 +75,7 @@ const Home = () => {
             </div>
             <div className="item">
               <img
-                src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/online-marketing.74e221b.svg"
+                src="https://Skillio-res.cloudinary.com/npm-assets/@Skillio/logged_out_homepage_perseus/apps/online-marketing.74e221b.svg"
                 alt=""
               />
               <div className="line"></div>
@@ -84,7 +84,7 @@ const Home = () => {
             </div>
             <div className="item">
               <img
-                src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/writing-translation.32ebe2e.svg"
+                src="https://Skillio-res.cloudinary.com/npm-assets/@Skillio/logged_out_homepage_perseus/apps/writing-translation.32ebe2e.svg"
                 alt=""
               />
               <div className="line"></div>
@@ -92,7 +92,7 @@ const Home = () => {
             </div>
             <div className="item">
               <img
-                src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/video-animation.f0d9d71.svg"
+                src="https://Skillio-res.cloudinary.com/npm-assets/@Skillio/logged_out_homepage_perseus/apps/video-animation.f0d9d71.svg"
                 alt=""
               />
               <div className="line"></div>
@@ -100,7 +100,7 @@ const Home = () => {
             </div>
             <div className="item">
               <img
-                src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/music-audio.320af20.svg"
+                src="https://Skillio-res.cloudinary.com/npm-assets/@Skillio/logged_out_homepage_perseus/apps/music-audio.320af20.svg"
                 alt=""
               />
               <div className="line"></div>
@@ -108,7 +108,7 @@ const Home = () => {
             </div>
             <div className="item">
               <img
-                src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/programming.9362366.svg"
+                src="https://Skillio-res.cloudinary.com/npm-assets/@Skillio/logged_out_homepage_perseus/apps/programming.9362366.svg"
                 alt=""
               />
               <div className="line"></div>
@@ -116,7 +116,7 @@ const Home = () => {
             </div>
             <div className="item">
               <img
-                src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/business.bbdf319.svg"
+                src="https://Skillio-res.cloudinary.com/npm-assets/@Skillio/logged_out_homepage_perseus/apps/business.bbdf319.svg"
                 alt=""
               />
               <div className="line"></div>
@@ -124,7 +124,7 @@ const Home = () => {
             </div>
             <div className="item">
               <img
-                src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/lifestyle.745b575.svg"
+                src="https://Skillio-res.cloudinary.com/npm-assets/@Skillio/logged_out_homepage_perseus/apps/lifestyle.745b575.svg"
                 alt=""
               />
               <div className="line"></div>
@@ -132,7 +132,7 @@ const Home = () => {
             </div>
             <div className="item">
               <img
-                src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/data.718910f.svg"
+                src="https://Skillio-res.cloudinary.com/npm-assets/@Skillio/logged_out_homepage_perseus/apps/data.718910f.svg"
                 alt=""
               />
               <div className="line"></div>
@@ -140,7 +140,7 @@ const Home = () => {
             </div>
             <div className="item">
               <img
-                src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/photography.01cf943.svg"
+                src="https://Skillio-res.cloudinary.com/npm-assets/@Skillio/logged_out_homepage_perseus/apps/photography.01cf943.svg"
                 alt=""
               />
               <div className="line"></div>
@@ -153,7 +153,7 @@ const Home = () => {
         <div className="container">
           <div className="item">
             <h1>
-              liverr <i>business</i>
+              Skillio <i>business</i>
             </h1>
             <h1>
               A business solution designed for <i>teams</i>
@@ -176,11 +176,11 @@ const Home = () => {
               <img src="./img/check.png" alt="" />
               Manage teamwork and boost productivity with one powerful workspace
             </div>
-            <button>Explore Liverr Business</button>
+            <button>Explore Skillio Business</button>
           </div>
           <div className="item">
             <img
-              src="https://fiverr-res.cloudinary.com/q_auto,f_auto,w_870,dpr_2.0/v1/attachments/generic_asset/asset/d9c17ceebda44764b591a8074a898e63-1599597624768/business-desktop-870-x2.png"
+              src="https://Skillio-res.cloudinary.com/q_auto,f_auto,w_870,dpr_2.0/v1/attachments/generic_asset/asset/d9c17ceebda44764b591a8074a898e63-1599597624768/business-desktop-870-x2.png"
               alt=""
             />
           </div>
